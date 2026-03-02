@@ -53,10 +53,10 @@ class Layer {
   }
 }
 
-const layerInstance1 = new Layer(backgroundLayer1, 0.5);
-const layerInstance2 = new Layer(backgroundLayer2, 0.5);
-const layerInstance3 = new Layer(backgroundLayer3, 0.5);
-const layerInstance4 = new Layer(backgroundLayer4, 0.5);
+const layerInstance1 = new Layer(backgroundLayer1, 0.2);
+const layerInstance2 = new Layer(backgroundLayer2, 0.4);
+const layerInstance3 = new Layer(backgroundLayer3, 0.6);
+const layerInstance4 = new Layer(backgroundLayer4, 0.8);
 const layerInstance5 = new Layer(backgroundLayer5, 1);
 
 const gameObjects = [
